@@ -10,7 +10,7 @@ namespace LearnVSGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!123");
+            Console.WriteLine("Hello world!dev");
         }
 
         /// <summary>
