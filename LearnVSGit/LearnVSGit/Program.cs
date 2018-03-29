@@ -13,5 +13,12 @@ namespace LearnVSGit
             //master update
             Console.WriteLine("Hello world!123");
         }
+
+        /// <summary>
+        /// dev update
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        private void add(int a, int b) { }
     }
 }
