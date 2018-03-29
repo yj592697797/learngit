@@ -12,5 +12,6 @@ namespace LearnVSGit
         {
             Console.WriteLine("Hello world!123");
         }
+        private void add(int a, int b) { }
     }
 }
