@@ -26,5 +26,12 @@ namespace LearnVSGit
         /// <param name="a"></param>
         /// <param name="b"></param>
         private void min(int a, int b) { }
+
+        /// <summary>
+        /// 主分支共有
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        private void max(int a, int b) { }
     }
 }
