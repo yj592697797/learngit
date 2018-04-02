@@ -41,5 +41,7 @@ namespace LearnVSGit
         /// <param name="a"></param>
         /// <param name="b"></param>
         private void avg(int a, int b) { }
+
+        private void sum(int a, int b) { }
     }
 }
