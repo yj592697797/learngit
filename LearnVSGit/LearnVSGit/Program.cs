@@ -43,5 +43,6 @@ namespace LearnVSGit
         private void avg(int a, int b) { }
 
         private void sum(int a, int b) { }
+        private void sumSC123(int a, int b) { }
     }
 }
