@@ -36,5 +36,7 @@ namespace LearnVSGit
         private void max(int a, int b) { }
 
         private void max2() { }
+
+        private void max3() { }
     }
 }
