@@ -34,5 +34,7 @@ namespace LearnVSGit
         /// <param name="a"></param>
         /// <param name="b"></param>
         private void max(int a, int b) { }
+
+        private void max2() { }
     }
 }
